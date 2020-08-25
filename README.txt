@@ -89,7 +89,7 @@ element, You can also include images with <img> tag -->
 
 
 
-* Now run makefile by the following commands inside the 'ui/src' folder to
+* Now run makefile by the following commands inside the 'ui/src' folder 
   change the default theme :
 
 Go to Command Terminal
@@ -98,5 +98,5 @@ Go to Command Terminal
          $ make clean all 
 	 $ make theme=blue-icon
 
-* Now, open ui/build/index.html in the browser to test the template.
+* Now, open ui/build/index.html in the browser to test the
 
